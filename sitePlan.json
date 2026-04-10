@@ -1,0 +1,49 @@
+{
+  "businessName": "PHILOSOPHY GLOBAL VENTURES LIMITED",
+  "industry": "General Contracts & Merchandise",
+  "tone": "professional",
+  "tagline": "Your Trusted Partner in Quality Contracts and Merchandise Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "PHILOSOPHY GLOBAL VENTURES LIMITED\n\nYour Trusted Partner in Quality Contracts and Merchandise Solutions\n\nWe deliver excellence in general contracting and merchandise supply across Edo State and beyond. From construction projects to quality products, we are committed to building lasting partnerships through reliability, integrity, and superior service delivery.",
+      "imagePrompt": "Modern Nigerian construction site with professional contractors in safety gear, high-quality building materials in foreground, clear blue sky, professional photography, sharp focus, contemporary African business aesthetic, Benin City urban backdrop",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "About Philosophy Global Ventures Limited\n\nEstablished as a leading name in general contracts and merchandise supply, Philosophy Global Ventures Limited has built a reputation for excellence in Benin City and across Nigeria. We specialize in delivering comprehensive contracting solutions and supplying quality merchandise to businesses, government agencies, and private clients.\n\nOur approach combines local expertise with international standards, ensuring every project meets the highest quality benchmarks. Whether you need construction services, procurement solutions, or merchandise supply, we bring professionalism, transparency, and timely delivery to every engagement.\n\nWith our headquarters strategically located in Egor LGA, Benin City, we serve clients across Edo State and the South-South region, providing end-to-end solutions that drive growth and deliver measurable results.",
+      "imagePrompt": "Professional Nigerian business team reviewing construction blueprints in modern office, diverse team members in business attire, natural lighting, corporate photography style, building materials samples on table, map of Edo State in background",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "What We Offer\n\nGeneral Contracting\nComprehensive construction and civil engineering services including building construction, road works, drainage systems, and infrastructure development. We manage projects from conception to completion with strict adherence to timelines and specifications.\n\nMerchandise Supply\nReliable supply of quality merchandise including building materials, industrial equipment, office supplies, and general goods. We maintain strong supplier networks to ensure availability and competitive pricing for our clients.\n\nProcurement Services\nEfficient procurement solutions for businesses and organizations. We handle sourcing, quality verification, logistics, and delivery of products across multiple categories, ensuring value for money and timely fulfillment.\n\nProject Management\nEnd-to-end project management services ensuring your contracts are executed efficiently. Our experienced team coordinates all aspects including planning, resource allocation, quality control, and stakeholder communication.\n\nConsultancy Services\nExpert advisory services for construction projects, vendor selection, and supply chain optimization. We provide insights that help clients make informed decisions and achieve their business objectives.",
+      "imagePrompt": "Grid layout of Nigerian business services: construction workers on site, warehouse stacked with quality merchandise, professional procurement meeting, project managers with tablets at construction site, bright natural lighting, professional documentary photography",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "Why Partner With Philosophy Global Ventures\n\nProven Track Record\nYears of successful project delivery across Edo State and Nigeria, with satisfied clients in both private and public sectors.\n\nQuality Assurance\nWe maintain rigorous quality standards across all our services, ensuring you receive value that meets and exceeds expectations.\n\nTimely Delivery\nOur project management systems ensure deadlines are met without compromising quality or safety standards.\n\nCompetitive Pricing\nStrong supplier relationships and efficient operations allow us to offer competitive rates while maintaining premium service quality.\n\nLocal Expertise\nDeep understanding of the Benin City business environment, regulatory requirements, and best practices for successful project execution.\n\nTransparency\nClear communication, detailed reporting, and honest business practices form the foundation of our client relationships.",
+      "imagePrompt": "Professional handshake between Nigerian business partners at construction site, completed quality building in background, sunrise lighting symbolizing trust and partnership, sharp corporate photography, South-South Nigeria architectural style",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Get In Touch With Us\n\nReady to discuss your project or procurement needs? Our team is available to provide detailed consultations and customized solutions for your business.\n\nVisit Our Office:\n10, Ehigiator Street, Off Upper Siluko Road, Benin City, Egor LGA, Edo State, Nigeria\n\nCall Us:\n+234 812 497 3713\n\nBusiness Hours:\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\n\nWhether you need general contracting services, merchandise supply, or procurement solutions, Philosophy Global Ventures Limited is your trusted partner for excellence. Contact us today to learn how we can serve your business needs.",
+      "imagePrompt": "Professional Nigerian office reception area, welcoming atmosphere, modern furniture, map of Benin City on wall, natural light through windows, professional interior photography, African business aesthetic, clean and organized space",
+      "layout": "split"
+    }
+  ],
+  "contact": {
+    "phone": "+234 812 497 3713",
+    "email": "",
+    "address": "10, Ehigiator Street, Off Upper Siluko Road, Benin City, Egor LGA, Edo State, Nigeria",
+    "whatsapp": "https://wa.me/2348124973713"
+  }
+}
